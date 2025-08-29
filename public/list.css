@@ -1,0 +1,8 @@
+#app {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.finish {
+  text-decoration: line-through;
+}
